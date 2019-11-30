@@ -32,3 +32,6 @@ class Child(Parent): # define child class
 
 c = Child()          # instance of child
 c.myMethod()         # child calls overridden method
+
+
+thankU
